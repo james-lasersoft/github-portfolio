@@ -65,3 +65,7 @@ GitHub: [james-lasersoft](https://github.com/james-lasersoft)
 ---
 
 This portfolio will continue to be refined as final capstone deliverables are reviewed and approved for public presentation.
+
+## Capstone Visual Evidence
+
+[View application screenshots](projects/my-fit-ideas/screenshots.md)

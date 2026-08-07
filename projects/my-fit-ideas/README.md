@@ -55,3 +55,8 @@ These measurements provide a local development baseline. They are not presented 
 ## Source Code Availability
 
 The complete application source code is not published as part of this portfolio. This public portfolio focuses on the project problem, scope, design decisions, implementation evidence, testing results, and professional documentation.
+
+## Application Screenshots
+
+[View the application screenshot gallery](screenshots.md) for authentication, dashboard, hydration, and progress-chart evidence captured from the current `main` branch interface using non-sensitive demonstration data.
+
